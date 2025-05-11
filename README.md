@@ -1,1 +1,1 @@
-# smart_email_assistant
+# Smart-email-assistant
